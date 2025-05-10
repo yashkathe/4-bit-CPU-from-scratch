@@ -1,0 +1,5 @@
+site_name: 4 bit CPU ~ from scratch
+site_favicon: assets/favicon.ico
+theme:
+  name: terminal
+  palette: sans_dark
